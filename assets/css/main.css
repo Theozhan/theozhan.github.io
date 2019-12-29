@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+@import url('https://fonts.googleapis.com/css?family=Muli:200,300,400,500,700,800,900&display=swap');
 
 /*
 	Forty by HTML5 UP
@@ -117,10 +118,10 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family:"Muli", sans-serif;
 		font-size: 17pt;
-		font-weight: 300;
-		letter-spacing: 0.025em;
+		font-weight: 200;
+		letter-spacing: 0.055em;
 		line-height: 1.65;
 	}
 
@@ -169,7 +170,7 @@ input, select, textarea {
 
 	strong, b {
 		color: #ffffff;
-		font-weight: 600;
+		font-weight: 800;
 	}
 
 	em, i {
